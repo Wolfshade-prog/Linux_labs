@@ -7,10 +7,10 @@ Move a seven-service Python fleet off an old laptop onto a dedicated, low-power 
 - HP EliteDesk 800 G4 Desktop Mini, Intel i5-8500T
 - RAM upgraded from 8 GB to 12 GB (added a 4 GB module)
 - Salvaged M.2 WiFi card fitted (no LAN run to this room yet)
-- OS: <fill in the Ubuntu flavour and version you install>
+- OS: <Ubunto>
 
 ## Steps
-1. Hardware: RAM upgrade and M.2 WiFi card install. <add photos to ./images>
+1. Hardware: RAM upgrade and M.2 WiFi card install.
 2. BIOS: set **After Power Loss → Power On** so the box restarts unattended.
 3. OS install: <installer, partitioning choices>
 4. Post-install: updates, user accounts, SSH (see Lab 02), Git, Python.
