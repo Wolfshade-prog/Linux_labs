@@ -1,0 +1,7 @@
+# Drop into /etc/ssh/sshd_config.d/10-hardening.conf
+Port <SSH_PORT>
+PermitRootLogin no
+PasswordAuthentication no
+KbdInteractiveAuthentication no
+PubkeyAuthentication yes
+MaxAuthTries 3

@@ -8,3 +8,5 @@ Exercises that show:
 - Small automation scripts (backups, updates, log rotation)
 
 Portfolios of Linux environment labs.
+git config --global user.name "Wolfshade-prog"
+git config --global user.email "s.michaels@wolfshadecapital.dev"
